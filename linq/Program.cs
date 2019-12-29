@@ -38,7 +38,7 @@ namespace linq
             foreach(Country info in popInfo)
             {
                 Console.WriteLine("Country: {0} {1}", info.Name, info.Population);
-
+                //neka izmjena
             }
 
                          
